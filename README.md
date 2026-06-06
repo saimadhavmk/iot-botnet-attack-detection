@@ -68,7 +68,7 @@ https://research.unsw.edu.au/projects/unsw-nb15-dataset
 Clone the repository:
 
 ```bash
-git clone https://github.com/saimadhavmk1/iot-botnet-attack-detection.git
+git clone https://github.com/saimadhavmk/iot-botnet-attack-detection.git
 ```
 
 Install dependencies:
